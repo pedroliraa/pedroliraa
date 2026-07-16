@@ -66,8 +66,8 @@ I'm a **Full Stack Developer** passionate about building scalable applications, 
 
 ## 📫 Let's Connect
 
-- 💼 LinkedIn: https://www.linkedin.com/in/SEU-LINK
-- 📧 Email: seuemail@exemplo.com
+- 💼 LinkedIn: https://www.linkedin.com/in/pedrolirabandeira/
+- 📧 Email: pedrolirabandeira@gmail.com
 
 ---
 
